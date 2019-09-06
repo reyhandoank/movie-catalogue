@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film Favorit
+    </string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv_show">Acara TV</string>g>
+
+    <string name="movie_description">Deskripsi Film</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="language_settings">Pengaturan Bahasa</string>
+    <string name="poster">Poster</string>
+    <string name="detail">Detail</string>
+    <string name="load_failed">Gagal memuat data!</string>
+    <string name="favorite">Favorit</string>
+
+    <string name="added_favorite">Ditambahkan ke Favorit</string>
+    <string name="deleted_favorite">Dihapus dari Favorit</string>
+    <string name="add_to_favorite">Tambahkan ke Favorit</string>
+    <string name="no_favorite_movies">Tidak ada film favorit!</string>
+    <string name="no_favorite_tv_shows">Tidak ada acara TV favorit!</string>
+    <string name="search">Telusuri</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="no_favorite_item">Tidak ada favorite</string>
+    <string name="not_found">Data tidak ditemukan!</string>
+</resources>

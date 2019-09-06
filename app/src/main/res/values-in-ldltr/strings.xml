@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv_show">Acara TV</string>
+
+    <string name="movie_description">Deskripsi Film</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="settings">Pengaturan</string>
+    <string name="poster">Poster</string>
+    <string name="detail">Detail</string>
+    <string name="favorite">Favorit</string>
+
+    <string name="added_favorite">Ditambahkan ke Favorit</string>
+    <string name="deleted_favorite">Dihapus dari Favorit</string>
+    <string name="add_to_favorite">Tambahkan ke Favorit</string>
+    <string name="no_favorite_movies">Tidak ada film favorit!</string>
+    <string name="no_favorite_tv_shows">Tidak ada acara TV favorit!</string>
+    <string name="search">Telusuri</string>
+    <string name="data_is_not_loaded">Data tidak dimuat!</string>
+    <string name="load_failed">Gagal memuat</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_favorite_item">Tidak ada favorit</string>
+    <string name="not_found">Data tidak ditemukan!</string>
+    <string name="daily_reminder">daily_reminder</string>
+    <string name="release_reminder">release_reminder</string>
+    <string name="setting_locale">Bahasa Indonesia</string>
+    <string name="key_daily_reminder">key_daily_reminder</string>
+    <string name="key_release_reminder">key_release_reminder</string>
+    <string name="key_locale_setting">key_locale_setting</string>
+    <string name="change_language">Bahasa</string>
+    <string name="turned_on">Diaktifkan</string>
+    <string name="turned_off">Tidak aktif</string>
+    <string name="release_reminder_msg" >Hari ini %s dirilis, jangan sampai ketinggalan!</string>
+    <string name="release_disabled_msg">Notifikasi Film Mendatang dinonaktifkan</string>
+    <string name="release_enabled_msg">Notifikasi Film Mendatang diaktifkan</string>
+    <string name="daily_notification_enabled_msg">Notifikasi harian diaktifkan</string>
+    <string name="daily_notification_disabled_msg">Notifikasi harian dinonaktifkan</string>
+    <string name="daily_reminder_msg">Hei, ada film favorit menunggumu!</string>
+    <string name="favorite_movie">Film Favorit</string>
+    <string name="notification">Notifikasi</string>
+    <string name="other">Lainnya</string>
+    <string name="daily_reminder_cat">Pengingat Harian</string>
+    <string name="release_reminder_cat">Pengingat Rilis Film</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Favorite Movie</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tv_show">TV Show</string>
+
+    <string name="movie_description">Deskripsi Film</string>
+    <string name="overview">Overview</string>
+    <string name="language_settings">Language Settings</string>
+    <string name="poster">Poster</string>
+    <string name="detail">Detail</string>
+    <string name="load_failed">Load Failed</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="added_favorite">Added to Favorite</string>
+    <string name="deleted_favorite">Deleted from Favorite</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="no_favorite_movies">No favorite movies!</string>
+    <string name="no_favorite_tv_shows">No favorite TV shows!</string>
+    <string name="search">Search</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_favorite_item">No Favorite Item</string>
+    <string name="not_found">Data is not found!</string>
+</resources>

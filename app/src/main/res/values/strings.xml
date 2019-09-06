@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tv_show">TV Show</string>
+
+    <string name="movie_description">Deskripsi Film</string>
+    <string name="overview">Overview</string>
+    <string name="settings">Settings</string>
+    <string name="poster">Poster</string>
+    <string name="detail">Detail</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="added_favorite">Added to Favorite</string>
+    <string name="deleted_favorite">Deleted from Favorite</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="no_favorite_movies">No favorite movies!</string>
+    <string name="no_favorite_tv_shows">No favorite TV shows!</string>
+    <string name="search">Search</string>
+    <string name="data_is_not_loaded">Data is not loaded!</string>
+    <string name="load_failed">Load failed</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_favorite_item">No Favorite Item</string>
+    <string name="not_found">Data is not found!</string>
+    <string name="daily_reminder">daily_reminder</string>
+    <string name="release_reminder">release_reminder</string>
+    <string name="setting_locale">English</string>
+    <string name="key_daily_reminder">key_daily_reminder</string>
+    <string name="key_release_reminder">key_release_reminder</string>
+    <string name="key_locale_setting">key_locale_setting</string>
+    <string name="change_language">Language</string>
+    <string name="turned_on">Turned on</string>
+    <string name="turned_off">Turned off</string>
+    <string name="release_reminder_msg" >Today %s released, don\'t miss it!</string>
+    <string name="release_enabled_msg">Release Movie Notifications Enabled</string>
+    <string name="release_disabled_msg">Release Movie Notifications Disabled</string>
+    <string name="daily_notification_enabled_msg">Daily Notifications Enabled</string>
+    <string name="daily_notification_disabled_msg">Daily Notifications disabled</string>
+    <string name="daily_reminder_msg">Hi, there is a favorite movie waiting for you!</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="notification">Notification</string>
+    <string name="other">Other</string>
+    <string name="daily_reminder_cat">Daily Reminder</string>
+    <string name="release_reminder_cat">Release Reminder</string>
+</resources>
